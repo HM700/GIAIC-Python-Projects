@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoFormatStrings": true,
+    "python.autoComplete.extraPaths": [
+        
+    ]
+}
